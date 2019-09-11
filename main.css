@@ -1,6 +1,33 @@
-* body {
-    background-color: green;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100%;
+body {
+    background-image: url("kraft.jpeg");
+    
+    }
+p, h1, h2 {
+    background-color: rgba(192, 171, 171, 6.0);
+    widows:800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h1, h2 {
+    padding: 0x 200px 0px 0px;
+}
+.title, {
+    width: 120px;
+}
+h1, h2 {
+    width: 170px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.eric {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h3 {
+    width: 200px;
 }
