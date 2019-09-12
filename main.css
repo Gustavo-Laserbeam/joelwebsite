@@ -2,32 +2,33 @@ body {
     background-image: url("kraft.jpeg");
     
     }
-p, h1, h2 {
-    background-color: rgba(192, 171, 171, 6.0);
-    widows:800px;
+p, h1, h2, h3 {
+    background-color: rgba(192, 171, 171, 0.8);
+    widows:400px;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 h1, h2 {
-    padding: 0x 200px 0px 0px;
+    padding: 0px 200px 0px 0px;
 }
 .title, {
-    width: 120px;
+    width: 1px;
 }
-h1, h2 {
-    width: 170px;
+h1, h2, h3 {
+    width: 200px;
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 35%;
   }
 .eric {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 35%;
+    
   }
 h3 {
-    width: 200px;
+    width: 230px;
 }
